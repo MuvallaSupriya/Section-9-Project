@@ -1,0 +1,7 @@
+C:\Users\muval\Documents\Project 1.14(Section 9)\School Data\School Data\bin\Debug\School Data.exe.config
+C:\Users\muval\Documents\Project 1.14(Section 9)\School Data\School Data\bin\Debug\School Data.exe
+C:\Users\muval\Documents\Project 1.14(Section 9)\School Data\School Data\bin\Debug\School Data.pdb
+C:\Users\muval\Documents\Project 1.14(Section 9)\School Data\School Data\obj\Debug\School Data.csproj.AssemblyReference.cache
+C:\Users\muval\Documents\Project 1.14(Section 9)\School Data\School Data\obj\Debug\School Data.csproj.CoreCompileInputs.cache
+C:\Users\muval\Documents\Project 1.14(Section 9)\School Data\School Data\obj\Debug\School Data.exe
+C:\Users\muval\Documents\Project 1.14(Section 9)\School Data\School Data\obj\Debug\School Data.pdb
